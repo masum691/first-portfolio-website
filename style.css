@@ -1,0 +1,229 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+}
+.this-me{
+    color: #013878;
+}
+.container{
+    
+    display: flex;
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 160px;
+}
+.first-section{
+    width: 50%;
+    padding-left: 5%;
+}
+.first-section img{
+    width: 80%;
+}
+h1{
+    font-size: 44px;
+}
+#ancode{
+    text-decoration: none;
+    padding: 15px 40px;
+    background-image: linear-gradient(#02ffab,#1ADB9B);
+    color: white;
+    font-weight: 700;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 50px;
+    box-shadow: 6px 6px 25px 0 rgb(0 217 166 / 65%);
+    background-image: linear-gradient(
+    250deg
+    ,#00d9a6 ,#9be15d);
+    
+    
+    
+}
+#ancode:hover{
+    background: black;
+    transform: translate(-50%,-50%) scale(1,1);
+    
+    
+}
+.para{
+    margin-bottom: 53px;
+    width: 73%;
+}
+.container-two{
+    display: flex;
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 160px;
+
+}
+
+.shadow-section{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 8px;
+    
+    
+}
+.experience-area{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 160px;
+}
+.flexible-container{
+    display: flex;
+}
+.heading-three{
+    color: #013878;
+
+}
+#diffrent-color-one{
+    border-left: 5px solid #F87860;
+}
+#diffrent-color-two{
+    border-left: 5px solid;
+    border-image: linear-gradient(#00d9a6, #9be15d);
+    border-image-slice: 1;
+}
+#expert{
+    margin-left: 5%;
+}
+#ancode-about{
+    text-decoration: none;
+    padding: 15px 40px;
+    background-image: linear-gradient(#003777,#0077ff);
+    color: white;
+    font-weight: 700;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 50px;
+    box-shadow: 6px 6px 25px 0 rgb(0 217 166 / 65%);
+    background-image: linear-gradient(
+    250deg
+    ,#003777 ,#016ada);
+    margin-left: 22px;
+}
+.service-section{
+    width: 100%;
+    display: flex;
+}
+.service-one{
+    width: 21%;
+    padding: 2%;
+    margin: 2%;
+}
+.head-color-change{
+    color: #003777;
+}
+.diffrent-service{
+    box-shadow: 10px 10px 40px rgb(219, 219, 219);
+    border-radius: 12px;
+}
+.service-top p{
+    margin-bottom: 53px;
+
+}
+.diffrent-service h1{
+    font-size: 24px;
+    
+}
+.fab{
+    color: #013878;
+    font-size: 75px;
+    background-position: center;
+}
+.last-section{
+    width: 90%;
+    padding: 3%;
+    margin-left: 2%;
+    border-radius: 18px;
+    background-image: linear-gradient(#003777,#0077ff);
+    display: flex;
+    margin-top: 96px;
+    margin-bottom: 22px;
+}
+.end{
+    width: 20%;
+    margin: 0;
+}
+
+.end{
+    color: rgb(241, 241, 241);
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+
+}
+.link a{ 
+    color: white;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    margin: 0;
+    font-size: 18px;
+    margin-top: 11px;
+}
+.link p{
+    text-align: center;
+}
+#input-area{
+    text-align: right;
+    
+}
+
+#input-area .sub{
+    padding: 12px;
+    font-size: 14px;
+    border-radius: 8px;
+    border: 1px solid white;
+    margin: 8px;
+
+    
+}
+#input-area .sub-two{
+    color: white;
+    font-weight: 700;
+    background-color: #20DB97;
+    border: 1px solid #20DB97;
+    text-align: center;
+    padding: 10px 50px;
+    border-radius: 50px;
+
+}
+footer p{
+    text-align: center;
+    font-size: 18px;
+    font-family: tahoma;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
